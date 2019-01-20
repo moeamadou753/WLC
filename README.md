@@ -1,2 +1,2 @@
 # WLC
-Documentation and user guide for my project, "White Lily Casino"
+Documentation and user guide for my project, "White Lily Casino."
