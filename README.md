@@ -4,7 +4,7 @@ Documentation and user guide for my project, "White Lily Casino."
 --- 
 
 ### 💮Welcome to White Lily Casino! 💮
-*Here is a user guide to help you get started :*
+Here is a user guide to help you get started.
 
 ## Getting Started
 
