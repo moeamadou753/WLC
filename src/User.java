@@ -10,7 +10,7 @@ import javax.swing.JTextField;
 
 import net.miginfocom.swing.MigLayout;
 
-/**This class creates a reference object for accounts registered to use White Lily Casino
+/** This class creates a reference object for accounts registered to use White Lily Casino
  * @author Mohamed Amadou
  * @since January 8, 2016
  */
@@ -40,7 +40,6 @@ public class User{
 			
 			if(line.substring(0, line.indexOf("%")).equalsIgnoreCase(id)){
 				inUse = true;
-				
 			}
 			
 			line = IO.readLine();
