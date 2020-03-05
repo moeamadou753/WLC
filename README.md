@@ -1,6 +1,4 @@
 # WLC
-Documentation and user guide for my project, "White Lily Casino."
-
 --- 
 
 ### 💮Welcome to White Lily Casino! 💮
