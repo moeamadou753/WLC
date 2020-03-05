@@ -1,5 +1,4 @@
 # WLC
---- 
 
 ### 💮Welcome to White Lily Casino! 💮
 Here is a user guide to help you get started.
